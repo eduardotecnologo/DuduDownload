@@ -525,5 +525,5 @@ all brought together with an **AI-assisted development workflow** and a focus on
 ---
 
 <p align="center">
-  Built with ❤️, TypeScript and AI-assisted engineering.
+  Built with ❤️, Specialist FullCycle and AI-assisted engineering.
 </p>
