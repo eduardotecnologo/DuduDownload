@@ -301,13 +301,13 @@ ffmpeg -version
 Clone the repository:
 
 ```bash
-git clone https://github.com/eduardotecnologo/fervecaodaspopozudas.git
+git clone https://github.com/eduardotecnologo/DuduDownload.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd fervecaodaspopozudas
+cd DuduDownload
 ```
 
 Install dependencies:
